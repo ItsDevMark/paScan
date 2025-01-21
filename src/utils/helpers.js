@@ -42,3 +42,4 @@ export const log__1 = () => console.log('2025-01-19 rev 1');
 export const log__1 = () => console.log('2025-01-20 rev 1');
 export const log__2 = () => console.log('2025-01-20 rev 2');
 export const log__1 = () => console.log('2025-01-21 rev 1');
+export const log__2 = () => console.log('2025-01-21 rev 2');
